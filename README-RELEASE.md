@@ -294,7 +294,7 @@ This script requires the `TRAVIS_COM_TOKEN` variable to be present
 in the environment.
 
 The test results are available from
-[travis-ci.com](https://app.travis-ci.com/github/xpack-dev-tools/riscv-none-embed-gcc-xpack/builds/).
+[Travis CI](https://app.travis-ci.com/github/xpack-dev-tools/riscv-none-embed-gcc-xpack/builds/).
 
 ### Manual tests
 

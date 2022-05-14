@@ -116,7 +116,7 @@ For more details please read the
 
 ### Versioning
 
-The version strings used by the GCC project are three number string
+The version strings used by the GCC project are three number strings
 like `11.3.0`; to this string the xPack distribution adds a four number,
 as the SiFive version,
 but since semver allows only three numbers, all additional ones can
@@ -125,7 +125,7 @@ like `11.3.0-1`. The fifth number is the xPack release.
 When published as a npm package, the version gets
 a sixth number, like `11.3.0-1.1`.
 
-Since adherance of third party packages to semver is not guaranteed,
+Since adherence of third party packages to semver is not guaranteed,
 it is recommended to use semver expressions like `^11.3.0` and `~11.3.0`
 with caution, and prefer exact matches, like `11.3.0-1.1`.
 
@@ -137,9 +137,8 @@ with caution, and prefer exact matches, like `11.3.0-1.1`.
 
 ## Support
 
-The quick answer is to use the
-[xPack forums](https://www.tapatalk.com/groups/xpack/);
-please select the correct forum.
+The quick answer is to use the GitHub
+[Discussion](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/discussions/).
 
 For more details please read the
 [Support](https://xpack.github.io/riscv-none-embed-gcc/support/) page.

@@ -8,5 +8,23 @@
   "spellright.language": [
     "en_GB"
   ],
-  "spellright.notificationClass": "warning"
+  "spellright.notificationClass": "warning",
+  "cSpell.ignoreWords": [
+    "binutils",
+    "elfedit",
+    "filt",
+    "gcov",
+    "gprof",
+    "liquidjs",
+    "objcopy",
+    "objdump",
+    "ranlib",
+    "readelf",
+    "riscv",
+    "xbbla32",
+    "xbbla64",
+    "xbbli",
+    "xbbma",
+    "xbbmi"
+  ]
 }

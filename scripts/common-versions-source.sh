@@ -7,9 +7,9 @@
 # for any purpose is hereby granted, under the terms of the MIT license.
 # -----------------------------------------------------------------------------
 
-# Helper script used in the second edition of the GNU MCU Eclipse build
-# scripts. As the name implies, it should contain only functions and
-# should be included with 'source' by the container build scripts.
+# Helper script used in the xPack build scripts. As the name implies,
+# it should contain only functions and should be included with 'source'
+# by the build scripts (both native and container).
 
 # -----------------------------------------------------------------------------
 
@@ -209,6 +209,8 @@ function build_versions()
       build_gettext "0.21"
 
       # https://www.python.org/ftp/python/
+      # Requires `scripts/helper/extras/python/pyconfig-win-3.10.4.h` &
+      # `python3-config.sh`
       PYTHON3_VERSION="3.10.4"
       WITH_GDB_PY3="y"
 

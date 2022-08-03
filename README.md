@@ -1,6 +1,15 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/riscv-none-embed-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/riscv-none-embed-gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/riscv-none-embed-gcc)
 
+## DEPRECATED! Replaced by xpack-dev-tools/riscv-none-elf-gcc-xpack
+
+This toolchain is now **end-of-life** and there will be no more releases.
+
+Please update your projects to use the new
+[`xpack-dev-tools/riscv-none-elf-gcc-xpack`](https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack).
+
+---
+
 ## The xPack GNU RISC-V Embedded GCC
 
 A standalone cross-platform (Windows/macOS/Linux) **GNU RISC-V Embedded GCC**
